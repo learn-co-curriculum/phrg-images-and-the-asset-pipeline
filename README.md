@@ -94,4 +94,4 @@ A digest is appended to the file name. If the file is updated, the digest will c
 ## Image Tags
 It is possible to predict the path to a image file and create our own image tag. This is not recommended since it will limit your ability to move your file and avoid caching problems that the helpers fix. ALWAYS USE THE HELPERS.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/images-and-the-asset-pipeline' title='Images and the Asset Pipeline'>Images and the Asset Pipeline</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Images and the Asset Pipeline</p>
